@@ -1,8 +1,8 @@
 # 💫 About Me:
-I'm in love with coding 🧠 💻
-I'm currently stydying economics & marketing in Kneu 📚 📝
-I'm currently learning Web Development  📱 🖥
-Knowledge is never enough 🧑 🧘‍♂️
+I'm in love with coding 🧠 💻 <br>
+I'm currently stydying economics & marketing in Kneu 📚 📝 <br>
+I'm currently learning Web Development  📱 🖥 <br>
+Knowledge is never enough 🧑 🧘‍♂️ <br>
 
 
 ## 🌐 Socials:
