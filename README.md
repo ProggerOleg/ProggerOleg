@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently marketing student of Kneu 📚🗿<br>I'm currently learning machine learning 🧠💻<br>Love python and pizza 🐍🍕
+I'm in love with coding 🧠 💻
+I'm currently stydying economics & marketing in Kneu 📚 📝
+I'm currently learning Web Development  📱 🖥
+Knowledge is never enough 🧑 🧘‍♂️
 
 
 ## 🌐 Socials:
